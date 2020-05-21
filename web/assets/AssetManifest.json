@@ -1,0 +1,8 @@
+{
+    "assets/*": [
+        "assets/*"
+    ],
+    "assets/imgs/*": [
+        "assets/imgs/logo.png"
+    ]
+}
